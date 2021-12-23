@@ -1,0 +1,7 @@
+/cmake-build-debug/*
+/.idea/*
+*.includecache
+*.log
+/cmake-build-release/*
+/cmake-build-debug-coverage/
+/Eigen/
